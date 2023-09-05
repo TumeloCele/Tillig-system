@@ -1,0 +1,37 @@
+		**Welcome Customer**
+
+Bill Number: 962
+
+Customer Name: Melo Cele
+
+Customer Phone Number: 076 635 8936
+
+=======================================================
+Product			Quantity			Price
+
+=======================================================
+
+Bath Soap			1			R 20.0
+
+Face Cream			1			R 80.0
+
+face Wash			0			R 0.0
+
+Body Lotion			1			R 70.99
+
+Rice			1			R 120
+
+Sugar			1			R 64
+
+Spirit			1			R 22
+Ice Tea			1			R 15.0
+
+-------------------------------------------------------
+
+Cosmetic Tax				R 25.648500000000002
+Grocery Tax				R 27.599999999999998
+Drink Tax				R 5.55
+
+Total Bill 				450.78850000000006
+
+

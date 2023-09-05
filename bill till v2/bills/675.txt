@@ -1,0 +1,44 @@
+		**Welcome Customer**
+
+Bill Number: 675
+
+Customer Name: Tumelo Cele
+
+Customer Phone Number: 0766358936
+
+=======================================================
+Product			Quantity			Price
+
+=======================================================
+
+Bath Soap			1			R 20.0
+
+Face Cream			2			R 160.0
+
+face Wash			0			R 0.0
+
+Hair Spray			1			R 40.0
+
+Hair Gel			2			R 101.98
+
+Daal			2			R 180
+
+Oil			1			R 105
+
+Tea			1			R 40.5
+
+Coca Cola			1			R 23
+
+Ice Tea			2			R 30.0
+
+Nectar			3			R 59.97
+
+-------------------------------------------------------
+
+Cosmetic Tax				R 48.297000000000004
+Grocery Tax				R 48.824999999999996
+Drink Tax				R 16.9455
+
+Total Bill 				874.5175000000002
+
+

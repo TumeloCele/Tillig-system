@@ -1,0 +1,57 @@
+		**Welcome Customer**
+
+Bill Number: 764
+
+Customer Name: Melo
+
+Customer Phone Number: 0377366474873
+
+=======================================================
+Product			Quantity			Price
+
+=======================================================
+
+Bath Soap			2			R 40.0
+
+Face Cream			2			R 160.0
+
+face Wash			1			R 60.0
+
+Hair Spray			1			R 40.0
+
+Hair Gel			1			R 50.99
+
+Body Lotion			1			R 70.99
+
+Rice			1			R 120
+
+Daal			1			R 90
+
+Sugar			1			R 64
+
+Oil			1			R 105
+
+Tea			1			R 40.5
+
+Wheat			1			R 65
+
+Coca Cola			2			R 46
+
+Spirit			2			R 44
+Lemonede			2			R 59.98
+
+Juice			23			R 690
+
+Ice Tea			1			R 15.0
+
+Nectar			1			R 19.99
+
+-------------------------------------------------------
+
+Cosmetic Tax				R 63.297
+Grocery Tax				R 72.675
+Drink Tax				R 131.2455
+
+Total Bill 				2048.6675
+
+

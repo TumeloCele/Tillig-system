@@ -1,0 +1,40 @@
+		**Welcome Customer**
+
+Bill Number: 680
+
+Customer Name: Melo
+
+Customer Phone Number: 0766358936
+
+=======================================================
+Product			Quantity			Price
+
+=======================================================
+
+Bath Soap			1			R 20.0
+
+Hair Spray			1			R 40.0
+
+Body Lotion			2			R 141.98
+
+Daal			1			R 90
+
+Oil			1			R 105
+
+Tea			1			R 40.5
+
+Coca Cola			1			R 23
+
+Lemonede			1			R 29.99
+
+Juice			1			R 30
+
+-------------------------------------------------------
+
+Cosmetic Tax				R 48.297000000000004
+Grocery Tax				R 35.324999999999996
+Drink Tax				R 12.4485
+
+Total Bill 				736.5405000000001
+
+
